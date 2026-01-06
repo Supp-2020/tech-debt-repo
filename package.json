@@ -1,0 +1,31 @@
+{
+  "name": "tech-debt-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Supp-2020/tech-debt-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "react-router-dom": "5.3.4",
+    "axios": "0.21.1",
+    "jsonwebtoken": "8.5.1",
+    "uuid": "3.4.0",
+    "node-fetch": "2.6.7",
+    "chalk": "4.1.2",
+    "mongoose": "5.13.15"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "webpack": "4.44.2",
+    "sass": "1.32.0"
+  }
+}
